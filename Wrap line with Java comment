@@ -1,0 +1,3 @@
+//Talent macro file
+S_ReplaceAll('^(.*)$', '\\\\\\\\ $1', 172);	// Replace All
+S_ReDraw(0);	// Redraw
