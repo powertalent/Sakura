@@ -1,0 +1,2 @@
+S_ReplaceAll('[\\t ]+$', '', 132);	// Replace All
+S_ReDraw(0);	// Redraw
